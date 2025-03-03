@@ -33,20 +33,7 @@ Energy efficiency significantly impacts property values:
 
 **Insight**: The highest energy efficiency ratings (A++++) command a substantial premium, indicating strong market valuation of sustainability.
 
-### 3. Property Age and Value
-
-Property age shows interesting relationships with value:
-
-| Build Decade | Avg. Price/m² | Count |
-|--------------|---------------|-------|
-| 2020s | €4,257 | 58 |
-| 2010s | €4,098 | 362 |
-| 1930s | €4,119 | 431 |
-| 1880s | €4,159 | 31 |
-
-**Insight**: While newer properties generally command higher prices, certain historical periods (1930s, 1880s) show remarkably strong value retention.
-
-### 4. Market Segmentation
+### 3. Market Segmentation
 
 SQL analysis identified distinct price segments with unique characteristics:
 
@@ -59,7 +46,7 @@ SQL analysis identified distinct price segments with unique characteristics:
 
 **Insight**: Clear differentiators exist between market segments beyond just price, with significant jumps in size, efficiency, and age between tiers.
 
-### 5. Size-Price Correlation
+### 4. Size-Price Correlation
 
 Statistical analysis shows a strong positive correlation (0.73) between living space size and property price.
 
@@ -76,10 +63,6 @@ Statistical analysis shows a strong positive correlation (0.73) between living s
 2. **Focus on Premium Location Investments**
    - **Action**: Target properties in the top 5 cities by price/m²
    - **Rationale**: Strong location premium provides built-in value appreciation
-
-3. **Consider 1930s Properties for Renovation**
-   - **Action**: Identify structurally-sound 1930s properties for modernization
-   - **Rationale**: Strong inherent value combined with lower initial purchase cost
 
 ### For Homebuyers
 

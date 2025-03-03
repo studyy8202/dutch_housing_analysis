@@ -44,13 +44,7 @@ housing-market-analysis/
 │   └── processed/                 # Processed data files
 │       └── cleaned_housing_data.csv
 │
-├── sql/
-│   └── queries/                   # Key SQL queries used in analysis
-│
-├── visualizations/                # Generated charts and graphics
-│
 ├── README.md                      # Project overview (this file)
-└── REPORT.md                      # Detailed findings and recommendations
 ```
 
 ## 🚀 Getting Started

@@ -45,6 +45,7 @@ housing-market-analysis/
 │       └── cleaned_housing_data.csv
 │
 ├── README.md                      # Project overview (this file)
+├── report.md                      # Key findings
 ```
 
 ## 🚀 Getting Started
@@ -64,7 +65,7 @@ housing-market-analysis/
 
 ## 📝 Full Report
 
-For the detailed analysis, findings and recommendations, see the full report on my Medium site.
+For the detailed analysis, findings and recommendations, see the full report on report.md.
 
 ---
 
